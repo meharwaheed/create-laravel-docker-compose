@@ -6,5 +6,5 @@ Create new project with Laravel and Docker Compose
 # docker-compose run composer create-project laravel/laravel .
 
 
-After running the command the source code will be copied to src direcotry
+After running the above command the source code will be copied into src direcotry
 
